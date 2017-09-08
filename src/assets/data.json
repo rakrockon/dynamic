@@ -1,0 +1,17 @@
+{
+  "widgets": [
+    {
+      "id" : 1,
+      "title" : "Sample Widget 1",
+      "path" : "assets/widgets/widget_client_rpm.html"
+    },{
+      "id" : 2,
+      "title" : "Sample Widget 2",
+      "path" : "assets/widgets/widget_seller_rpm.html"
+    },{
+      "id" : 3,
+      "title" : "Sample Widget 3",
+      "path" : "assets/widgets/widget_network_rpm.html"
+    }
+  ]
+}

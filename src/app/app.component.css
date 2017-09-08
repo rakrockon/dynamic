@@ -1,0 +1,7 @@
+.rpm-widget{
+        float: left;
+    /* margin: 10px; */
+    width: 33%;
+    border: 1px solid;
+    text-align: center;
+}
